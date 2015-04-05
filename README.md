@@ -36,7 +36,7 @@ return array(
 );
 ```
 
-And your done!
+And you're done!
 
 Configuration example
 ---------------------
