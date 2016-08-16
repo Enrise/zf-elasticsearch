@@ -11,7 +11,7 @@
     "keywords": ["elasticsearch", "zend framework", "zf2"],
     "prefer-stable": true,
     "require": {
-        "php": "^5.4",
+        "php": "^5.4 || ^7",
         "elasticsearch/elasticsearch": "^1.0"
     },
     "autoload": {
